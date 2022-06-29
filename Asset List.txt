@@ -1,0 +1,21 @@
+
+Structural Assets:
+
+Wall_Modular_Plain  -b
+Wall_Modular_BottomTrim  -b
+Wall_Modular_Bend  
+Pillar_Square  -b
+Pillar_Square_Bottom_Trim  -b
+Pillar_Round  -b
+Railing_Generic
+Railing_Bend
+Floorpiece_Modular_Plain  -b
+Floorpiece_Round
+Ceiling
+Generic_Storefront_01
+Generic_Storefront_02
+Generic_Storefront_03
+Unique_Storefront_01
+Unique_Storefront_02
+Unique_Storefront_03
+Ground_Floor
